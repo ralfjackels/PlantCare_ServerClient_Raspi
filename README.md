@@ -38,3 +38,6 @@ IMG_FORMAT=png <br>
 - Evgeni Kozyr
 - Laura Yawira Lewinski
 - Ralf Jackels
+
+## Project impressions | Project Structure
+![Image](./src/resources/projectstructure.JPG?raw=true)
