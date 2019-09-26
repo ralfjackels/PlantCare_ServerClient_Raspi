@@ -40,4 +40,4 @@ IMG_FORMAT=png <br>
 - Ralf Jackels
 
 ## Project impressions | Project Structure
-![Image](./src/resources/projectstructure.JPG?raw=true)
+![Image](./src/images/projectstructure.JPG?raw=true)
