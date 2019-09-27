@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>aw</groupId>
-    <artifactId>kraeuterkiste_raspberry</artifactId>
+    <artifactId>plantCare_raspberry</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>kraeuterkiste_raspberry</name>
+    <name>plantCare_raspberry</name>
     <description>Spring Boot on Raspberry</description>
 
     <properties>
