@@ -1,5 +1,5 @@
-# PlantCare_ServerClient_Raspi
-It serves as a server() as well as a client to the PlantCare_Backend, enabling data exchange and handling HTTP-requests.
+# PlantCare - ServerClient - Raspberry Pi
+It serves as a server as well as a client to the PlantCare_Backend, enabling data exchange and handling HTTP-requests.
 
 ## Getting Started | Prerequisites
 
